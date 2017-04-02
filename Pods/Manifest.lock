@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Material (2.0.0)
+  - SwiftyJSON (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Material (from `/Users/MarasyPhi/Downloads/Material-development`)
+  - SwiftyJSON (~> 3.0)
+
+EXTERNAL SOURCES:
+  Material:
+    :path: /Users/MarasyPhi/Downloads/Material-development
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Material: 61dcd49507c32d07c1557267ec360ce35bd0b1c5
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+
+PODFILE CHECKSUM: b4249aba5227ca5178ee57489f1c9ce84f770ce6
+
+COCOAPODS: 1.1.0.rc.2

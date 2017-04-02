@@ -1,0 +1,6 @@
+framework module Pods_Baka_Anime {
+  umbrella header "Pods-Baka-Anime-umbrella.h"
+
+  export *
+  module * { export * }
+}
